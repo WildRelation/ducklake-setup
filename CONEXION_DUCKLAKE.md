@@ -1,4 +1,4 @@
-# Cómo conectarse a DuckLake (PostgreSQL + MinIO en cbhcloud)
+# Cómo usar DuckDB en Python para conectarse a un DuckLake (PostgreSQL + MinIO) deployado en cbhcloud
 
 ## Arquitectura
 
