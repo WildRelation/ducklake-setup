@@ -1,0 +1,4 @@
+duckdb
+minio
+pandas
+numpy
